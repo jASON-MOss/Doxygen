@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.h
+ * @author Jason Moss
+ * @date 2023-10-26
+ * @brief functions for supervisor class
+ * 
+ * functions for supervisor class
+ */
+
 #ifndef SUPERVISOR_H
 #define SUPERVISOR_H
 

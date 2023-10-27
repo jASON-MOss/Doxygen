@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Jason Moss
+ * @date 2023-10-26
+ * @brief tests the employee classed
+ * 
+ * tests the employee, officer, and supervisor classes
+ */
+
 
 #include <iostream>
 #include "Employee.h"
@@ -55,6 +64,16 @@ int main() {
   return 0;
 }
 
+
+/**
+ * Tests the program
+ *
+ * @param Employee &e 
+ * @pre valid file
+ * @return void 
+ * @post tested
+ * 
+ */
 void runEmployeeTests(Employee &e) {
   
   cout << "Initial print():" << endl;

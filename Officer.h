@@ -1,3 +1,12 @@
+/**
+ * @file Officer.h
+ * @author Jason Moss
+ * @date 2023-10-26
+ * @brief methods for officer class
+ * 
+ * methods for officer class
+ */
+
 #ifndef OFFICER_H
 #define OFFICER_H
 
